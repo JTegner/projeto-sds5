@@ -24,10 +24,10 @@ INDEX VERSION 1.131+/home/jordano/ws-devsuperior/projeto-sds5/.metadata/.plugins
 2194481593.index
 3669072594.index
 1300734144.index
+2233963263.index
 2689719306.index
 2974371312.index
 1355707421.index
-2233963263.index
 4273124149.index
 1186984612.index
 3138419483.index
@@ -38,9 +38,9 @@ INDEX VERSION 1.131+/home/jordano/ws-devsuperior/projeto-sds5/.metadata/.plugins
 2058767816.index
 3888198363.index
 2066489604.index
-1713540740.index
-1733110654.index
 2982035129.index
+1733110654.index
+1713540740.index
 2630498905.index
 120211678.index
 1941475366.index
